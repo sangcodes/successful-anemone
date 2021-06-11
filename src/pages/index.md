@@ -90,15 +90,6 @@ sections:
           Great place. Have learned lots over the years. Not the easiest sport
           to learn. But once you get used to it. It's great, want to keep
           getting better
-  - type: section_cta
-    section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        label: Get Started
-        url: /signup
-        style: primary
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts
