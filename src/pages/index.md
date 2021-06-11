@@ -76,7 +76,7 @@ sections:
           and those who want to continue their journey with kumdo!
       - type: review_item
         author: Danny Kim
-        avatar: images/review2.jpg
+        avatar: /images/dkim.png
         avatar_alt: Parsley Montana's photo
         content: |-
           I sent my 2 sons to learn Kumdo for 2 years already.
