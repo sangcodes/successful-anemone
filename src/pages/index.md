@@ -25,7 +25,7 @@ sections:
         title: Private Lessons
         content: >-
           Private lessons are available throughout the week and weekends during a time that works for you and the master. 
-This is a great way to get the most out of your kumdo experience and take advantage of the one-on-one training.
+          This is a great way to get the most out of your kumdo experience and take advantage of the one-on-one training.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
       - type: feature_item
