@@ -70,7 +70,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - type: feature_item
-        title: Kids and Young Adults
+        title: Seniors
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
