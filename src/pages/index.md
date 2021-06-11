@@ -38,9 +38,7 @@ sections:
       - type: feature_item
         title: Adults
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Adults train to relieve any outside stress and mental exhaustion in a safe, positive form. Each lesson is an achievement and improvement of your skills, along with the health benefits that come with Kumdo training.
         image: images/feature3.png
         image_alt: App user profile preview
       - type: feature_item
