@@ -61,14 +61,6 @@ sections:
           amet nec urna.
         image: images/feature3.png
         image_alt: App user profile preview
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - type: feature_item
         title: Seniors
         content: >-
