@@ -55,8 +55,7 @@
                 "type": "footer_text",
                 "image": "/images/hsklogo-dark.png",
                 "image_alt": "Footer logo",
-                "image_url": "/",
-                "content": "Stackbit theme demo"
+                "image_url": "/"
             },
             {
                 "type": "footer_nav",
