@@ -53,7 +53,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "/images/hsklogo-dark.png",
                 "image_alt": "Footer logo",
                 "image_url": "/",
                 "content": "Stackbit theme demo"
