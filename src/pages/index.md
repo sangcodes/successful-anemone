@@ -44,9 +44,7 @@ sections:
       - type: feature_item
         title: Seniors
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Senior citizens take advantage of this opportunity by constantly improving their physical endurance and mental health. Kumdo offers new challenges for everyone and there will never be an age limit to those who are curious to learn. 
         image: images/feature2.png
         image_alt: App users welcoming a new member
   - type: section_reviews
