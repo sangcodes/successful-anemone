@@ -17,7 +17,7 @@ sections:
         style: primary
   - type: section_features
     section_id: features
-    title: Features
+    title: What We Offer
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
