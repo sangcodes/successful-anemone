@@ -70,8 +70,10 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          During vacation I went to this place and it was amazing. The people
+          there are very kind and teach very well especially the master! I would
+          love to go back one day. I highly recommend this place for beginners
+          and those who want to continue their journey with kumdo!
       - type: review_item
         author: Parsley Montana
         avatar: images/review2.jpg
