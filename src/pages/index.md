@@ -54,11 +54,7 @@ sections:
         image_alt: App user profile preview
       - type: feature_item
         title: Seniors
-        content: >-
-          Senior citizens take advantage of this opportunity by constantly
-          improving their physical endurance and mental health. Kumdo offers new
-          challenges for everyone and there will never be an age limit to those
-          who are curious to learn. 
+        content: "Parents and their children enjoy learning a new sport together! Families can practice during the open-group lessons or set up a private lesson just for you and your family.\_Kumdo is a great way to bond while experiencing\_a new part of life.\_\n"
         image: images/feature2.png
         image_alt: App users welcoming a new member
   - type: section_reviews
