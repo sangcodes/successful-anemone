@@ -55,7 +55,7 @@ sections:
       - type: feature_item
         title: Families
         content: "Parents and their children enjoy learning a new sport together! Families can practice during the open-group lessons or set up a private lesson just for you and your family.\_Kumdo is a great way to bond while experiencing\_a new part of life.\_\n"
-        image: images/feature2.png
+        image: /images/Families.jpeg
         image_alt: App users welcoming a new member
   - type: section_reviews
     section_id: reviews
