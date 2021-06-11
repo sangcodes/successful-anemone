@@ -78,11 +78,10 @@ sections:
         author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
-        content: >-
-          During vacation I went to this place and it was amazing. The people
-          there are very kind and teach very well especially the master! I would
-          love to go back one day. I highly recommend this place for beginners
-          and those who want to continue their journey with kumdo!
+        content: |-
+          I sent my 2 sons to learn Kumdo for 2 years already.
+          I love their professionalism and cares my kids like his own childs.
+          I'm extremely happy with their service.
       - type: review_item
         author: Jonquil Von Haggerston
         avatar: images/review3.jpg
