@@ -18,33 +18,47 @@ sections:
   - type: section_features
     section_id: features
     title: What We Offer
-    subtitle: Hang San Kumdo offers a variety of classes as the practitioner progresses in his or her training.
+    subtitle: >-
+      Hang San Kumdo offers a variety of classes as the practitioner progresses
+      in his or her training.
     background: gray
     features:
       - type: feature_item
         title: Private Lessons
         content: >-
-          Private lessons are available throughout the week and weekends during a time that works for you and the master. 
-          This is a great way to get the most out of your kumdo experience and take advantage of the one-on-one training.
-        image: images/feature1.png
+          Private lessons are available throughout the week and weekends during
+          a time that works for you and the master.  This is a great way to get
+          the most out of your kumdo experience and take advantage of the
+          one-on-one training.
+        image: /images/hsk-kids-and-young-adults.jpeg
         image_alt: App preview on a phone and tablet
       - type: feature_item
         title: Kids and Young Adults
         content: >-
-          Children learn in an exciting, positive environment - allowing them to thrive. Our younger students learn to understand the meaning of focus and discipline as it is applied in each basic skill that they are taught.
-          Through dedicated training, teenagers and young adults improve their inner spirit. Feelings of confidence and self-esteem are shaped and developed in an environment of encouragement and respect.
+          Children learn in an exciting, positive environment - allowing them to
+          thrive. Our younger students learn to understand the meaning of focus
+          and discipline as it is applied in each basic skill that they are
+          taught. Through dedicated training, teenagers and young adults improve
+          their inner spirit. Feelings of confidence and self-esteem are shaped
+          and developed in an environment of encouragement and respect.
         image: images/feature2.png
         image_alt: App users welcoming a new member
       - type: feature_item
         title: Adults
         content: >-
-          Adults train to relieve any outside stress and mental exhaustion in a safe, positive form. Each lesson is an achievement and improvement of your skills, along with the health benefits that come with Kumdo training.
+          Adults train to relieve any outside stress and mental exhaustion in a
+          safe, positive form. Each lesson is an achievement and improvement of
+          your skills, along with the health benefits that come with Kumdo
+          training.
         image: images/feature3.png
         image_alt: App user profile preview
       - type: feature_item
         title: Seniors
         content: >-
-          Senior citizens take advantage of this opportunity by constantly improving their physical endurance and mental health. Kumdo offers new challenges for everyone and there will never be an age limit to those who are curious to learn. 
+          Senior citizens take advantage of this opportunity by constantly
+          improving their physical endurance and mental health. Kumdo offers new
+          challenges for everyone and there will never be an age limit to those
+          who are curious to learn. 
         image: images/feature2.png
         image_alt: App users welcoming a new member
   - type: section_reviews
