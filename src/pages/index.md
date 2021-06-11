@@ -79,9 +79,10 @@ sections:
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          During vacation I went to this place and it was amazing. The people
+          there are very kind and teach very well especially the master! I would
+          love to go back one day. I highly recommend this place for beginners
+          and those who want to continue their journey with kumdo!
       - type: review_item
         author: Jonquil Von Haggerston
         avatar: images/review3.jpg
