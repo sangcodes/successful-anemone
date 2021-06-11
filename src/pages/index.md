@@ -3,6 +3,7 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
+    title-top: Welcome to
     title: Hang San Kumdo
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
