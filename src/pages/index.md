@@ -30,7 +30,7 @@ sections:
           a time that works for you and the master.  This is a great way to get
           the most out of your kumdo experience and take advantage of the
           one-on-one training.
-        image: /images/hsk-kids-and-young-adults.jpeg
+        image: /images/hsk-private-lesson.jpeg
         image_alt: App preview on a phone and tablet
       - type: feature_item
         title: Kids and Young Adults
