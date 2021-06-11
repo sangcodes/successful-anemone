@@ -18,7 +18,7 @@ export default class SectionHero extends React.Component {
                   )}
                   <div className="cell block-content">
                     {_.get(section, 'title', null) && (
-                        <>
+                    <>
                     <h2>Welcome to</h2>
                     <h2 className="block-title underline">{_.get(section, 'title', null)}</h2>
                     </>
