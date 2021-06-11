@@ -90,10 +90,6 @@ sections:
           Great place. Have learned lots over the years. Not the easiest sport
           to learn. But once you get used to it. It's great, want to keep
           getting better
-  - type: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    background: gray
 seo:
   type: stackbit_page_meta
   title: Stackbit Azimuth Theme
