@@ -31,7 +31,8 @@ sections:
       - type: feature_item
         title: Kids and Young Adults
         content: >-
-          Children learn in an exciting, positive environment - allowing them to thrive. Our younger students learn to understand the meaning of focus and discipline as it is applied in each basic skill that they are taught. 
+          Children learn in an exciting, positive environment - allowing them to thrive. Our younger students learn to understand the meaning of focus and discipline as it is applied in each basic skill that they are taught.
+          Through dedicated training, teenagers and young adults improve their inner spirit. Feelings of confidence and self-esteem are shaped and developed in an environment of encouragement and respect.
         image: images/feature2.png
         image_alt: App users welcoming a new member
       - type: feature_item
