@@ -41,7 +41,7 @@ sections:
           taught. Through dedicated training, teenagers and young adults improve
           their inner spirit. Feelings of confidence and self-esteem are shaped
           and developed in an environment of encouragement and respect.
-        image: images/feature2.png
+        image: /images/hsk-kids-and-young-adults.jpeg
         image_alt: App users welcoming a new member
       - type: feature_item
         title: Adults
