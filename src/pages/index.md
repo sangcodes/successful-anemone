@@ -84,7 +84,7 @@ sections:
           I'm extremely happy with their service.
       - type: review_item
         author: Jin Choi
-        avatar: images/review3.jpg
+        avatar: /images/hsk-jchoi.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Great place. Have learned lots over the years. Not the easiest sport
