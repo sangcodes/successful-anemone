@@ -18,9 +18,7 @@ sections:
   - type: section_features
     section_id: features
     title: What We Offer
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Hang San Kumdo offers a
     background: gray
     features:
       - type: feature_item
