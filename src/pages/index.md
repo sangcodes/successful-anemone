@@ -45,14 +45,6 @@ sections:
           auctor.
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - type: feature_item
         title: Adults
         content: >-
