@@ -75,7 +75,7 @@ sections:
           love to go back one day. I highly recommend this place for beginners
           and those who want to continue their journey with kumdo!
       - type: review_item
-        author: Parsley Montana
+        author: Danny Kim
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: |-
