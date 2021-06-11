@@ -29,14 +29,6 @@ sections:
           consequat ex.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - type: feature_item
         title: Kids and Young Adults
         content: >-
