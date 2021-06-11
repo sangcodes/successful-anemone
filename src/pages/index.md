@@ -83,7 +83,7 @@ sections:
           I love their professionalism and cares my kids like his own childs.
           I'm extremely happy with their service.
       - type: review_item
-        author: Jonquil Von Haggerston
+        author: Jin Choi
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
