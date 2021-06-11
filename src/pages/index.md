@@ -18,7 +18,7 @@ sections:
   - type: section_features
     section_id: features
     title: What We Offer
-    subtitle: Hang San Kumdo offers
+    subtitle: Hang San Kumdo offers a variety of classes as the practitioner progresses in his or her training.
     background: gray
     features:
       - type: feature_item
