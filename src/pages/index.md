@@ -66,7 +66,7 @@ sections:
     background: white
     reviews:
       - type: review_item
-        author: Eric Widget
+        author: Danielle Kwon
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
