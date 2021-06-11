@@ -22,8 +22,8 @@
             },
             {
                 "type": "action",
-                "label": "About",
-                "url": "/about",
+                "label": "Testimonials",
+                "url": "/testimonials",
                 "style": "link"
             },
             {
