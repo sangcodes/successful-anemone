@@ -87,8 +87,9 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Great place. Have learned lots over the years. Not the easiest sport
+          to learn. But once you get used to it. It's great, want to keep
+          getting better
   - type: section_cta
     section_id: call-to-action
     title: This Is Call To Action Block!
