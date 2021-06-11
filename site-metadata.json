@@ -34,7 +34,7 @@
             },
             {
                 "type": "action",
-                "label": "Sign Up",
+                "label": "Follow",
                 "url": "/signup",
                 "style": "secondary",
                 "has_icon": true,
