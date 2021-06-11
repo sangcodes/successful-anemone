@@ -36,7 +36,7 @@
                 "type": "action",
                 "label": "Follow",
                 "url": "/signup",
-                "style": "secondary",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "facebook"
             }
