@@ -31,9 +31,7 @@ sections:
       - type: feature_item
         title: Kids and Young Adults
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Children learn in an exciting, positive environment - allowing them to thrive. Our younger students learn to understand the meaning of focus and discipline as it is applied in each basic skill that they are taught. 
         image: images/feature2.png
         image_alt: App users welcoming a new member
       - type: feature_item
