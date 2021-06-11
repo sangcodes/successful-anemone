@@ -22,6 +22,12 @@
             },
             {
                 "type": "action",
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "type": "action",
                 "label": "Announcements",
                 "url": "/pricing",
                 "style": "link"
