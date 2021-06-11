@@ -69,6 +69,22 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      - type: feature_item
+        title: Kids and Young Adults
+        content: >-
+          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
+          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
+          auctor.
+        image: images/feature2.png
+        image_alt: App users welcoming a new member
+        actions:
+          - type: action
+            label: Learn More
+            url: /features
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
   - type: section_reviews
     section_id: reviews
     title: Testimonials
