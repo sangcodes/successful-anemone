@@ -5,9 +5,9 @@ sections:
     section_id: hero
     title-top: Welcome to
     title: Hang San Kumdo
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Hang San Kumdo is the perfect place to practice kumdo at any level and
+      age.
     image: /images/hsk-hero-1.jpeg
     image_alt: App preview
     actions:
