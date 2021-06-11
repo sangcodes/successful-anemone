@@ -177,6 +177,10 @@
 .cta-block {
   .block-title {
     margin-bottom: 0.25em;
+
+    &.no-margin {
+        margin-bottom: 0;
+    }
   }
 
   .block-buttons {
