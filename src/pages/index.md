@@ -50,7 +50,7 @@ sections:
           safe, positive form. Each lesson is an achievement and improvement of
           your skills, along with the health benefits that come with Kumdo
           training.
-        image: images/feature3.png
+        image: /images/hsk-adults.jpeg
         image_alt: App user profile preview
       - type: feature_item
         title: Families
