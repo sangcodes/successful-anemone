@@ -122,8 +122,8 @@
 @media only screen and (min-width: 901px) {
   .footer-top {
     .grid {
-      -ms-flex-pack: center;
-      justify-content: center;
+      -ms-flex-pack: space-between;
+      justify-content: space-between;
     }
 
     .cell,

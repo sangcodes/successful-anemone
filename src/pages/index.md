@@ -92,17 +92,17 @@ sections:
           getting better
 seo:
   type: stackbit_page_meta
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Hang San Kumdo
+  description: The preview of Hang San Kumdo
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Hang San Kumdo
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: The preview of Hang San Kumdo
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -111,9 +111,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Hang San Kumdo
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: The preview of Hang San Kumdo
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
