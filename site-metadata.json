@@ -8,44 +8,7 @@
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
-            {
-                "type": "action",
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Testimonials",
-                "url": "/testimonials",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Announcements",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Contact",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Follow",
-                "url": "https://www.facebook.com/HangSanKumdo",
-                "style": "primary",
-                "has_icon": true,
-                "icon": "facebook"
-            }
+            
         ]
     },
     "footer": {
@@ -56,36 +19,6 @@
                 "image": "/images/hsklogo-dark.png",
                 "image_alt": "Footer logo",
                 "image_url": "/"
-            },
-            {
-                "type": "footer_nav",
-                "title": "Company",
-                "nav_links": [
-                    {
-                        "type": "action",
-                        "label": "About Us",
-                        "url": "/about",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
-                        "label": "Blog",
-                        "url": "/blog",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
-                    }
-                ]
             },
             {
                 "type": "footer_nav",
@@ -101,24 +34,6 @@
                         "icon_position": "left"
                     }
                 ]
-            },
-            {
-                "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
-                "form_id": "contactForm",
-                "hide_labels": true,
-                "form_fields": [
-                    {
-                        "type": "form_field",
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Enter email address",
-                        "is_required": true
-                    }
-                ],
-                "submit_label": "Subscribe"
             }
         ],
         "has_nav": true,
