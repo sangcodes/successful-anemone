@@ -8,7 +8,14 @@
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
-            
+            {
+                "type": "action",
+                "label": "Follow",
+                "url": "https://www.facebook.com/HangSanKumdo",
+                "style": "primary",
+                "has_icon": true,
+                "icon": "facebook"
+            }
         ]
     },
     "footer": {
